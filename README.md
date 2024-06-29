@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/smarty16797790" target="blank"><img src="https://img.shields.io/twitter/follow/smarty16797790?logo=twitter&style=for-the-badge" alt="smarty16797790" /></a> </p>
 
-- 🔭 I’m currently working on **C4C Project**
+- 🔭 I’m currently working as Freelancer
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://rohit-bharti-portfolio-react.netlify.app](https://rohit-bharti-portfolio-react.netlify.app)
 
