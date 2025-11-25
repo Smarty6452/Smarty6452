@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working as a **MERN Stack**
 
-- 👨‍💻 All of my projects are available at https://smartyart03.vercel.app/
+- 👨‍💻 All of my projects are available at https://rohitportfoliodev.vercel.app/
 
 - 💬 Ask me about **React , Vue, JavaScript or anything ...**
 
