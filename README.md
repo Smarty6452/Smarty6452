@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working as a **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://rohit-bharti-portfolio-react.netlify.app](https://rohit-bharti-portfolio-react.netlify.app)
+- 👨‍💻 All of my projects are available at [https://rohit-bharti-portfolio-react.netlify.app](https://rohit-bharti-portfolio-react.netlify.app)](https://smartyart03.vercel.app/)
 
 - 💬 Ask me about **React , Vue, JavaScript or anything ...**
 
